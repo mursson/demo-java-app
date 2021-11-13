@@ -15,6 +15,9 @@
         <maven.compiler.target>1.6</maven.compiler.target>
     </properties>
 
+    <build>
+        <finalName>java-jenkins-docker</finalName>
+    </build>
 
     <dependencies>
         <!-- junit 5, unit test -->
